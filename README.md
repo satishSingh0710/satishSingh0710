@@ -26,7 +26,7 @@
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Graphic Era Hill University, Dehradun.
 - 🌱 I’m currently exploring MERN stack development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:satishpundir02@gmail.com).
+- 📫 Email me at [satishpundir02@gmail.com](mailto:satishpundir02@gmail.com).
 
 
 
